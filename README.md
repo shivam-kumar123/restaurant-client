@@ -1,3 +1,5 @@
+# LIve Website: https://restaurant-client-eyv5.onrender.com/
+
 # Setting up for running locally
 
 ## `git clone https://github.com/shivam-kumar123/restaurant-client.git`
