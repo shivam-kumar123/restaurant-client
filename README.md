@@ -1,6 +1,6 @@
 # Setting up for running locally
 
-## `git clone [http://localhost:3000](http://localhost:3000)`
+## `git clone [https://github.com/shivam-kumar123/restaurant-client.git](https://github.com/shivam-kumar123/restaurant-client.git)`
 
 ## npm install
 
